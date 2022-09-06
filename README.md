@@ -1,5 +1,5 @@
 # Block-controlled-thermal-illusion-device
-*Genetic algorithm Optimize for thermal illusion *
+*Genetic algorithm Optimize for thermal illusion*
 
 [Comsol] is a commercial software application that is widely used in
 science and industry for research and development. It excels at modeling
